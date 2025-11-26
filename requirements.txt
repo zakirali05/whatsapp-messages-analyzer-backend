@@ -10,3 +10,6 @@ pillow
 aiofiles
 pydantic
 jinja2
+langcodes
+python-dateutil
+emoji
